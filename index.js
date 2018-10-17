@@ -1,7 +1,7 @@
 const button = document.querySelector('#theButton')
 
 function changebutton(params) {
-    button.textContent = "hey you"
+    button.textContent = "oh hi"
 }
 
 button.addEventListener('click',changebutton)
