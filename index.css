@@ -1,8 +1,70 @@
 body{
-    background-color: rgb(78, 78, 78);
+    background-color:#1F2A38;
     color: white;
     
 }
-h1{
-    color: white;
+div{
+    width: 40vw;
+    height: 30vw;
+    position: absolute;
+    right: 5vw;
+    top: 10vw;
 }
+h1#title{
+    color: white;
+    position: absolute;
+    font-size: 4vw;
+}
+h1#education{
+    color: gainsboro;
+    position: absolute; 
+    top: 6vw;  
+}
+h2#email{
+    color: gainsboro;
+    position: absolute;
+    top:10vw;
+}
+a#linkedin{
+    color: gainsboro;
+    position: absolute;
+    top:15vw;
+    font-size: 2vw;
+}
+
+  i.fab.fa-twitter{
+    
+    top:18vw;
+    position: absolute;
+    color: white;
+    font-size: 2vw;
+  }
+  i.fab.fa-instagram{
+    left: 5vw;
+    top:18vw;
+    position: absolute;
+    color: white;
+    font-size: 2vw;
+  }
+  i.fab.fa-facebook-f{
+    left: 10vw;
+    top:18vw;
+    position: absolute;
+    color: white;
+    font-size: 2vw;
+  }
+  i.fab.fa-github{
+    left: 15vw;
+    top:18vw;
+    position: absolute;
+    color: white;
+    font-size: 2vw;
+  }
+  img#icon {
+    position: absolute;
+    left: 5vw;
+    bottom: 0vw;
+   
+    width: 30vw;
+    
+  }
